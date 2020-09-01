@@ -1,0 +1,2 @@
+import os
+os.chdir('C:\\Users\\Oleg\\Documents\\GitHub\\algorithms\\Grokking_Algorithms')
